@@ -1,3 +1,4 @@
 4e011ecb-2b92-4935-8276-6cb39c560270:objects/ico/netblock.png
 1a03e461-f68d-4d51-8c77-6cc92fc459ec:objects/ico/directory.png
-
+09a04984-6f63-4d5e-b1d0-9145c47d578f:objects/ico/namecoin.png
+7cfb90b8-a530-4f62-baae-070097b08176:objects/ico/TX.png
